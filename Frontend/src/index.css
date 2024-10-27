@@ -1,0 +1,10 @@
+/* src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global dark theme background and text colors */
+html, body {
+  background-color: #000000;
+  color: #ffffff;
+}
